@@ -1,0 +1,49 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ IDEA logs, caches, and system files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/vcs.xml
+.idea/**/vcs
+
+# User-specific files
+.idea/**/deployment.xml
+.idea/**/composer.phar
+
+# Gradle specific files
+.gradle/
+build/
+
+# Build directories
+bin/
+target/
+out/
+
+# Dependency directories
+lib/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EasyBank loans related QA APIs"
+  contactDetails:
+    name: "HABIBI Ayoub - QA Lead"
+    email: "habibiayoub87@gmail.com"
+  onCallSupport:
+    -(666) 555-1234
+    -(666) 523-1345
